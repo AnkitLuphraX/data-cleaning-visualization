@@ -26,3 +26,9 @@ desktop.ini
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Nested standalone git projects
+exploratory-data-analysis/
+predictive-modeling-ml/
+real-world-data-project/
+
